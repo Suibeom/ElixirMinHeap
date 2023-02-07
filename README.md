@@ -1,6 +1,8 @@
 # Minheap
 
-**TODO: Add description**
+This repository is a quick reworking of the code from a blogpost about the heap datastructure I read
+
+It was a fine blog post, but... The code was obviously and badly broken. So I decided, as an exercise, to fix it using test-driven development. This is the end result. But, as they say, the journey is the destination. My target was to write a big procedural test to show that heapsort could use this data structure successfully. I may make a bigger suite of tests and a separate branch that lets you relive it without spoilers. Enjoy!
 
 ## Installation
 
